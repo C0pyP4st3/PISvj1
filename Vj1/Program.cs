@@ -11,7 +11,7 @@ namespace Vj1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello ljubavi jedina <3 <3 <3 <3 <3 <3");
-            
+            Console.WriteLine("Lokalno.");
         }
     }
 }
